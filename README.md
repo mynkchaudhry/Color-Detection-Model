@@ -55,21 +55,7 @@ python color_detection.py --image samples/sample_image.jpg
 ```
 
 Output:
-```
+
 ![ml-ds](https://images.app.goo.gl/98uco5faN1es3CNH6)
 
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- The color detection algorithm is based on [OpenCV](https://opencv.org/) and [Numpy](https://numpy.org/).
-- Thanks to the open-source community for valuable contributions.
-
-Feel free to customize the readme according to your project's needs.
