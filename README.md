@@ -56,6 +56,7 @@ python color_detection.py --image samples/sample_image.jpg
 
 Output:
 ```
+![ml-ds](https://images.app.goo.gl/98uco5faN1es3CNH6)
 
 
 ## Contributing
