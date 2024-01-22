@@ -56,6 +56,6 @@ python color_detection.py --image samples/sample_image.jpg
 
 Output:
 
-![typing](/Screenshot (125).png)
+![output](/output.png)
 
 
