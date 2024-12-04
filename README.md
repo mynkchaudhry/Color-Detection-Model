@@ -29,7 +29,7 @@ pip install opencv-python numpy
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Color-Detection-Model.git
+git clone https://github.com/mynkchaudhry/Color-Detection-Model.git
 ```
 
 2. Navigate to the project directory:
